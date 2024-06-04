@@ -36,6 +36,6 @@ class Main extends React.Component {
 
 
 ReactDOM.render(
-  <Main title="React" text="智商四乙,C109156207,李杰恩,github page架設成功"></Main>,
+  <Main title="React" text="智商四乙,C109156207,李杰恩,架設成功"></Main>,
   document.getElementById('react-app')
 );
